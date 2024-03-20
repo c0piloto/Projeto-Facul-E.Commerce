@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1699349958 source:c:\users\cliente\documents\aed\trabalhoaedv3\funcoescarrinho.c
+	"TADGeral.h"
+	"TADnos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699349993 c:\users\cliente\documents\aed\trabalhoaedv3\tadgeral.h
+
+1699348961 c:\users\cliente\documents\aed\trabalhoaedv3\tadnos.h
+	"TADGeral.h"
+
+1699350562 source:c:\users\cliente\documents\aed\trabalhoaedv3\funcoesproduto.c
+	"TADGeral.h"
+	"TADnos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699348961 source:c:\users\cliente\documents\aed\trabalhoaedv3\funcoesusuario.c
+	"TADGeral.h"
+	"TADnos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699350228 source:c:\users\cliente\documents\aed\trabalhoaedv3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<io.h>
+	<unistd.h>
+	"TADGeral.h"
+	"TADnos.h"
+
+1699351039 source:c:\users\cliente\documents\grupo06\pasta 01\funcoescarrinho.c
+	"TADGeral.h"
+	"TADnos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699349993 c:\users\cliente\documents\grupo06\pasta 01\tadgeral.h
+
+1699348961 c:\users\cliente\documents\grupo06\pasta 01\tadnos.h
+	"TADGeral.h"
+
+1699351301 source:c:\users\cliente\documents\grupo06\pasta 01\funcoesproduto.c
+	"TADGeral.h"
+	"TADnos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699351434 source:c:\users\cliente\documents\grupo06\pasta 01\funcoesusuario.c
+	"TADGeral.h"
+	"TADnos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699353001 source:c:\users\cliente\documents\grupo06\pasta 01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<io.h>
+	<unistd.h>
+	"TADGeral.h"
+	"TADnos.h"
+

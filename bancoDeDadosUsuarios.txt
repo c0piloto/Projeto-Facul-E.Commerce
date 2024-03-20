@@ -1,0 +1,20 @@
+Nome: admin
+Usuário: admin
+Senha: admin
+Produtos relacionados:
+   - Eletronicos
+   - Higiene
+   - Vestuario
+   - Livros
+   - Moveis
+
+Nome: Joao
+Usuário: joni
+Senha: abacaxi
+Produtos relacionados:
+   - 
+   - 
+   - £wí/ÆÆþÿÿÿ|þa
+   - 
+   - Mv
+

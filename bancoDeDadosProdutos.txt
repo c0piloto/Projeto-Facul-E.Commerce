@@ -1,0 +1,500 @@
+Nome: Chaveiro
+Descrição: Chaveiro
+Categoria: Acessorios
+Valor Unitário: 6.00
+Nota de Avaliação: 4.60
+Quantidade em Estoque: 170
+Quantidade no Carrinho: 0
+Vendas: 51
+Vendedor: E
+
+Nome: Faca
+Descrição: Faca
+Categoria: Utensilios
+Valor Unitário: 4.00
+Nota de Avaliação: 4.30
+Quantidade em Estoque: 130
+Quantidade no Carrinho: 0
+Vendas: 16
+Vendedor: D
+
+Nome: Garfo
+Descrição: Garfo
+Categoria: Utensilios
+Valor Unitário: 2.00
+Nota de Avaliação: 4.50
+Quantidade em Estoque: 160
+Quantidade no Carrinho: 0
+Vendas: 31
+Vendedor: C
+
+Nome: Prato
+Descrição: Prato
+Categoria: Utensilios
+Valor Unitário: 5.00
+Nota de Avaliação: 4.70
+Quantidade em Estoque: 140
+Quantidade no Carrinho: 0
+Vendas: 92
+Vendedor: B
+
+Nome: Copo
+Descrição: Copo
+Categoria: Utensilios
+Valor Unitário: 3.00
+Nota de Avaliação: 4.80
+Quantidade em Estoque: 150
+Quantidade no Carrinho: 0
+Vendas: 15
+Vendedor: A
+
+Nome: Toalha
+Descrição: Toalha
+Categoria: Higiene
+Valor Unitário: 8.00
+Nota de Avaliação: 4.60
+Quantidade em Estoque: 110
+Quantidade no Carrinho: 0
+Vendas: 15
+Vendedor: E
+
+Nome: Condicionador
+Descrição: Condicionador
+Categoria: Higiene
+Valor Unitário: 12.00
+Nota de Avaliação: 4.00
+Quantidade em Estoque: 80
+Quantidade no Carrinho: 0
+Vendas: 42
+Vendedor: D
+
+Nome: Shampoo
+Descrição: Shampoo
+Categoria: Higiene
+Valor Unitário: 10.00
+Nota de Avaliação: 4.30
+Quantidade em Estoque: 90
+Quantidade no Carrinho: 0
+Vendas: 80
+Vendedor: C
+
+Nome: Sabonete
+Descrição: Sabonete
+Categoria: Higiene
+Valor Unitário: 2.50
+Nota de Avaliação: 4.50
+Quantidade em Estoque: 120
+Quantidade no Carrinho: 0
+Vendas: 40
+Vendedor: B
+
+Nome: Creme
+Descrição: Creme
+Categoria: Beleza
+Valor Unitário: 15.00
+Nota de Avaliação: 4.70
+Quantidade em Estoque: 85
+Quantidade no Carrinho: 0
+Vendas: 24
+Vendedor: A
+
+Nome: Pente
+Descrição: Pente
+Categoria: Beleza
+Valor Unitário: 5.00
+Nota de Avaliação: 4.80
+Quantidade em Estoque: 100
+Quantidade no Carrinho: 0
+Vendas: 42
+Vendedor: E
+
+Nome: Espelho
+Descrição: Espelho
+Categoria: Decoração
+Valor Unitário: 30.00
+Nota de Avaliação: 4.60
+Quantidade em Estoque: 60
+Quantidade no Carrinho: 0
+Vendas: 98
+Vendedor: D
+
+Nome: Vaso
+Descrição: Vaso
+Categoria: Decoração
+Valor Unitário: 15.00
+Nota de Avaliação: 4.20
+Quantidade em Estoque: 75
+Quantidade no Carrinho: 0
+Vendas: 21
+Vendedor: C
+
+Nome: Monitor
+Descrição: Monitor
+Categoria: Eletronicos
+Valor Unitário: 250.00
+Nota de Avaliação: 4.70
+Quantidade em Estoque: 45
+Quantidade no Carrinho: 0
+Vendas: 25
+Vendedor: B
+
+Nome: Teclado
+Descrição: Teclado
+Categoria: Eletronicos
+Valor Unitário: 40.00
+Nota de Avaliação: 4.80
+Quantidade em Estoque: 55
+Quantidade no Carrinho: 0
+Vendas: 49
+Vendedor: A
+
+Nome: Mouse
+Descrição: Mouse
+Categoria: Eletronicos
+Valor Unitário: 20.00
+Nota de Avaliação: 4.60
+Quantidade em Estoque: 65
+Quantidade no Carrinho: 0
+Vendas: 72
+Vendedor: E
+
+Nome: Apontador
+Descrição: Apontador
+Categoria: Papelaria
+Valor Unitário: 1.00
+Nota de Avaliação: 4.00
+Quantidade em Estoque: 90
+Quantidade no Carrinho: 0
+Vendas: 84
+Vendedor: D
+
+Nome: Borracha
+Descrição: Borracha
+Categoria: Papelaria
+Valor Unitário: 0.75
+Nota de Avaliação: 4.40
+Quantidade em Estoque: 130
+Quantidade no Carrinho: 0
+Vendas: 51
+Vendedor: C
+
+Nome: Regua
+Descrição: Regua
+Categoria: Papelaria
+Valor Unitário: 1.50
+Nota de Avaliação: 4.20
+Quantidade em Estoque: 110
+Quantidade no Carrinho: 0
+Vendas: 73
+Vendedor: B
+
+Nome: Agenda
+Descrição: Agenda
+Categoria: Papelaria
+Valor Unitário: 8.00
+Nota de Avaliação: 4.70
+Quantidade em Estoque: 80
+Quantidade no Carrinho: 0
+Vendas: 62
+Vendedor: A
+
+Nome: Livro
+Descrição: Comedia
+Categoria: Livros
+Valor Unitário: 10.50
+Nota de Avaliação: 4.20
+Quantidade em Estoque: 40
+Quantidade no Carrinho: 0
+Vendas: 29
+Vendedor: B
+
+Nome: Caneta
+Descrição: Caneta
+Categoria: Papelaria
+Valor Unitário: 1.00
+Nota de Avaliação: 4.80
+Quantidade em Estoque: 150
+Quantidade no Carrinho: 0
+Vendas: 46
+Vendedor: D
+
+Nome: Pincel
+Descrição: Pincel
+Categoria: Papelaria
+Valor Unitário: 2.00
+Nota de Avaliação: 4.60
+Quantidade em Estoque: 120
+Quantidade no Carrinho: 0
+Vendas: 99
+Vendedor: C
+
+Nome: Lapis
+Descrição: Lapis
+Categoria: Papelaria
+Valor Unitário: 0.50
+Nota de Avaliação: 4.00
+Quantidade em Estoque: 200
+Quantidade no Carrinho: 0
+Vendas: 81
+Vendedor: B
+
+Nome: Guarda-chuva
+Descrição: Guarda-chuva
+Categoria: Acessorios
+Valor Unitário: 25.00
+Nota de Avaliação: 4.30
+Quantidade em Estoque: 85
+Quantidade no Carrinho: 0
+Vendas: 4
+Vendedor: A
+
+Nome: Cadeado
+Descrição: Cadeado
+Categoria: Utilidades
+Valor Unitário: 15.00
+Nota de Avaliação: 4.50
+Quantidade em Estoque: 70
+Quantidade no Carrinho: 0
+Vendas: 100
+Vendedor: E
+
+Nome: Laptop
+Descrição: Laptop
+Categoria: Eletronicos
+Valor Unitário: 1199.00
+Nota de Avaliação: 4.90
+Quantidade em Estoque: 5
+Quantidade no Carrinho: 0
+Vendas: 50
+Vendedor: D
+
+Nome: Bicicleta
+Descrição: Bicicleta
+Categoria: Esporte
+Valor Unitário: 299.00
+Nota de Avaliação: 4.80
+Quantidade em Estoque: 10
+Quantidade no Carrinho: 0
+Vendas: 30
+Vendedor: C
+
+Nome: Jaqueta
+Descrição: Jaqueta
+Categoria: Vestuario
+Valor Unitário: 120.00
+Nota de Avaliação: 4.70
+Quantidade em Estoque: 30
+Quantidade no Carrinho: 0
+Vendas: 92
+Vendedor: B
+
+Nome: Chapeu
+Descrição: Chapeu
+Categoria: Acessorios
+Valor Unitário: 20.00
+Nota de Avaliação: 4.20
+Quantidade em Estoque: 75
+Quantidade no Carrinho: 0
+Vendas: 95
+Vendedor: A
+
+Nome: Pulseira
+Descrição: Pulseira
+Categoria: Acessorios
+Valor Unitário: 45.00
+Nota de Avaliação: 4.80
+Quantidade em Estoque: 60
+Quantidade no Carrinho: 0
+Vendas: 47
+Vendedor: E
+
+Nome: Camera
+Descrição: Camera
+Categoria: Eletronicos
+Valor Unitário: 299.00
+Nota de Avaliação: 4.40
+Quantidade em Estoque: 20
+Quantidade no Carrinho: 0
+Vendas: 56
+Vendedor: D
+
+Nome: Notebook
+Descrição: Notebook
+Categoria: Eletronicos
+Valor Unitário: 799.99
+Nota de Avaliação: 4.90
+Quantidade em Estoque: 15
+Quantidade no Carrinho: 0
+Vendas: 8
+Vendedor: C
+
+Nome: Monitor
+Descrição: Monitor
+Categoria: Eletronicos
+Valor Unitário: 199.00
+Nota de Avaliação: 4.70
+Quantidade em Estoque: 25
+Quantidade no Carrinho: 0
+Vendas: 72
+Vendedor: B
+
+Nome: Oculos
+Descrição: Oculos
+Categoria: Acessorios
+Valor Unitário: 60.00
+Nota de Avaliação: 4.60
+Quantidade em Estoque: 50
+Quantidade no Carrinho: 0
+Vendas: 92
+Vendedor: A
+
+Nome: Bolsa
+Descrição: Bolsa
+Categoria: Acessorios
+Valor Unitário: 40.00
+Nota de Avaliação: 4.00
+Quantidade em Estoque: 85
+Quantidade no Carrinho: 0
+Vendas: 59
+Vendedor: E
+
+Nome: Tenis
+Descrição: Tenis
+Categoria: Vestuario
+Valor Unitário: 70.00
+Nota de Avaliação: 4.80
+Quantidade em Estoque: 30
+Quantidade no Carrinho: 0
+Vendas: 2
+Vendedor: D
+
+Nome: Colar
+Descrição: Colar
+Categoria: Acessorios
+Valor Unitário: 35.50
+Nota de Avaliação: 4.50
+Quantidade em Estoque: 65
+Quantidade no Carrinho: 0
+Vendas: 9
+Vendedor: C
+
+Nome: Relogio
+Descrição: Relogio
+Categoria: Acessorios
+Valor Unitário: 99.00
+Nota de Avaliação: 4.30
+Quantidade em Estoque: 75
+Quantidade no Carrinho: 0
+Vendas: 70
+Vendedor: B
+
+Nome: Perfume
+Descrição: Perfume
+Categoria: Beleza
+Valor Unitário: 50.00
+Nota de Avaliação: 4.70
+Quantidade em Estoque: 40
+Quantidade no Carrinho: 0
+Vendas: 54
+Vendedor: A
+
+Nome: Shorts
+Descrição: Shorts
+Categoria: Vestuario
+Valor Unitário: 18.00
+Nota de Avaliação: 4.00
+Quantidade em Estoque: 55
+Quantidade no Carrinho: 0
+Vendas: 82
+Vendedor: E
+
+Nome: Mesa
+Descrição: Mesa
+Categoria: Moveis
+Valor Unitário: 199.50
+Nota de Avaliação: 4.10
+Quantidade em Estoque: 34
+Quantidade no Carrinho: 0
+Vendas: 4
+Vendedor: D
+
+Nome: Cadeira
+Descrição: Cadeira
+Categoria: Moveis
+Valor Unitário: 120.00
+Nota de Avaliação: 4.60
+Quantidade em Estoque: 20
+Quantidade no Carrinho: 0
+Vendas: 99
+Vendedor: C
+
+Nome: Mochila
+Descrição: Mochila
+Categoria: Acessorios
+Valor Unitário: 30.00
+Nota de Avaliação: 4.20
+Quantidade em Estoque: 90
+Quantidade no Carrinho: 0
+Vendas: 22
+Vendedor: B
+
+Nome: Fone
+Descrição: Fone
+Categoria: Eletronicos
+Valor Unitário: 79.99
+Nota de Avaliação: 4.50
+Quantidade em Estoque: 60
+Quantidade no Carrinho: 0
+Vendas: 13
+Vendedor: A
+
+Nome: Livro
+Descrição: Romance
+Categoria: Livros
+Valor Unitário: 15.50
+Nota de Avaliação: 4.90
+Quantidade em Estoque: 70
+Quantidade no Carrinho: 0
+Vendas: 72
+Vendedor: E
+
+Nome: Sapato
+Descrição: Sapato
+Categoria: Vestuario
+Valor Unitário: 55.00
+Nota de Avaliação: 4.60
+Quantidade em Estoque: 40
+Quantidade no Carrinho: 0
+Vendas: 11
+Vendedor: D
+
+Nome: Celular
+Descrição: Smartphone
+Categoria: Eletronicos
+Valor Unitário: 399.99
+Nota de Avaliação: 4.80
+Quantidade em Estoque: 30
+Quantidade no Carrinho: 0
+Vendas: 100
+Vendedor: C
+
+Nome: Caneca
+Descrição: Caneca
+Categoria: Utensilios
+Valor Unitário: 10.50
+Nota de Avaliação: 4.20
+Quantidade em Estoque: 100
+Quantidade no Carrinho: 0
+Vendas: 27
+Vendedor: B
+
+Nome: Camiseta
+Descrição: Camiseta
+Categoria: Vestuario
+Valor Unitário: 25.00
+Nota de Avaliação: 4.70
+Quantidade em Estoque: 50
+Quantidade no Carrinho: 0
+Vendas: 74
+Vendedor: A
+
